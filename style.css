@@ -90,6 +90,28 @@ body, html {
   transform: scale(0.98);
 }
 
+footer {
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #333;
+  opacity: 0.8;
+  font-weight: 500;
+}
+
+footer a {
+  color: #556cd6;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+
 
 
 
