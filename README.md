@@ -49,7 +49,7 @@ The cube rotates automatically, can be dragged with the mouse or touch, and has 
 
 ## 🧩 Demo
 
-🎯 **Live Preview:** [View 3D  Cube Animation](https://krutzia.github.io/colorful-3d-cube/)
+🎯 **Live Preview:** [View 3D  Cube Animation](https://krutzia.github.io/3D-Cube-Animation/)
 
 Explore this colorful 3D half-cube — drag, spin, and reset it in real time!
 
